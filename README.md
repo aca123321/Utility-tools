@@ -1,4 +1,4 @@
-# Utility-tools
+# CSV to SQL converter
 
 -> A CSV to SQL converter made due to the unavailability of >500 row free csv to sql converter online.
 
